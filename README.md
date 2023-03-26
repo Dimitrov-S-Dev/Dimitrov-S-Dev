@@ -1,6 +1,6 @@
-<h1 align="center">Hey there....  Welcome to my profile</h1>
+<h2 align="center">Hey there....& Welcome to my profile!</h2>
 <p align="center">
-	<img align ="center" src = "https://raw.githubusercontent.com/pratik-kale20/pratik-kale20/main/linux.png" width="100" height="100">
+	<img align ="center" src = "https://raw.githubusercontent.com/pratik-kale20/pratik-kale20/main/linux.png" width="80" height="80">
 	</a>
 </p>
 <h2 align="center">Personal Details</h2>
