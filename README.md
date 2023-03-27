@@ -16,9 +16,9 @@
 </p>
 
 <p align="center">
-<img height="100em" src="https://github-readme-stats.vercel.app/api?username=Dimitrov-S-Dev-Python&theme=prussian&hide_border=false&include_all_commits=false&count_private=false" />
-<img height="100em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dimitrov-S-Dev-Python&theme=prussian&hide_border=false" />
-<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimitrov-S-Dev-Python&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+<img height="110em" src="https://github-readme-stats.vercel.app/api?username=Dimitrov-S-Dev-Python&theme=prussian&hide_border=false&include_all_commits=false&count_private=false" />
+<img height="110em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dimitrov-S-Dev-Python&theme=prussian&hide_border=false" />
+<img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimitrov-S-Dev-Python&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 
 </p>
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
