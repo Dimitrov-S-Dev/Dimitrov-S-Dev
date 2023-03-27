@@ -3,17 +3,23 @@
 	<img align ="center" src = "https://raw.githubusercontent.com/pratik-kale20/pratik-kale20/main/linux.png" width="100" height="100">
 	</a>
 </p>
-<h2 align="center">Personal Details</h2>
-<p align="center">
-💻 &nbsp I mainly code in Python, but I am always learning. 
-🎓 &nbsp; Studying Software Enginering at SoftUni Bulgaria.
+<p align="center"
+	
+[![](https://visitcount.itsvg.in/api?id=Dimitrov-S-Dev-Python&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </p>
+
 <p align="center">
-<a href="https://github.com/azizovrafael">
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dimitrov-S-Dev-Python&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dimitrov-S-Dev-Python&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
+	💻 &nbsp I mainly code in Python, but I am always learning.
+        🎓 &nbsp Studying Software Enginering at SoftUni Bulgaria.
+
+</p>
+
+<p align="center">
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=Dimitrov-S-Dev-Python&theme=prussian&hide_border=false&include_all_commits=false&count_private=false" />
+<img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dimitrov-S-Dev-Python&theme=prussian&hide_border=false" />
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimitrov-S-Dev-Python&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+
 </p>
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
 <h2 align="center">***</h2>
@@ -46,13 +52,8 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
-
 <h2 align="center">***</h2>
 
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) 
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dimitrov.s@aol.com) 
