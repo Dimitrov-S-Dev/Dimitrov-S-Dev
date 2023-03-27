@@ -24,10 +24,10 @@
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
 <h2 align="center">***</h2>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
 
 <h2 align="center">***</h2>
 
@@ -54,8 +54,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
 <h2 align="center">***</h2>
 
-
-## 🌐 Socials:
 <p align="center">
 <a href="https://www.linkedin.com/in/stanimir-dimitrov-5201331b/"><img src="https://img.shields.io/badge/-Dimitrov.S%20Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:dimitrov.s.dev@gmail.com"><img src="https://img.shields.io/badge/-dimitrov.s.dev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
