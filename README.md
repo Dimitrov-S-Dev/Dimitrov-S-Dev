@@ -56,4 +56,6 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/dimitrov.s@aol.com](https://www.linkedin.com/in/stanimir-dimitrov-5201331b/)) 
+<p align="center">
+<a href="https://www.linkedin.com/in/stanimir-dimitrov-5201331b/"><img src="https://img.shields.io/badge/-Dimitrov.S%20Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:dimitrov.s.dev@gmail.com"><img src="https://img.shields.io/badge/-dimitrov.s.dev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
