@@ -6,7 +6,7 @@
 <p align="center"
 	
 [![](https://visitcount.itsvg.in/api?id=Dimitrov-S-Dev-Python&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<h2 align="center"></h2>
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
-<h2 align="center">***</h2>
+<h2 align="center"></h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/stanimir-dimitrov-5201331b/"><img src="https://img.shields.io/badge/-Dimitrov.S%20Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:dimitrov.s.dev@gmail.com"><img src="https://img.shields.io/badge/-dimitrov.s.dev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
