@@ -16,9 +16,9 @@
 </p>
 
 <p align="center">
-<img height="110em" src="https://github-readme-stats.vercel.app/api?username=Dimitrov-S-Dev-Python&theme=prussian&hide_border=false&include_all_commits=false&count_private=false" />
+<img height="110em" src="https://github-readme-stats.vercel.app/api?username=Dimitrov-S-Dev-Python&theme=prussian&hide_border=false&include_all_commits=true&count_private=false" />
 <img height="110em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dimitrov-S-Dev-Python&theme=prussian&hide_border=false" />
-<img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimitrov-S-Dev-Python&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+<img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimitrov-S-Dev-Python&theme=prussian&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
 
 </p>
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
@@ -44,3 +44,4 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/stanimir-dimitrov-5201331b/"><img src="https://img.shields.io/badge/-Dimitrov.S%20Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:dimitrov.s.dev@gmail.com"><img src="https://img.shields.io/badge/-dimitrov.s.dev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+	
