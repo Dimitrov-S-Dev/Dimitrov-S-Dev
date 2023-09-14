@@ -30,15 +30,15 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) 
-![Apache Spark](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=apachespark&logoColor=%2361DAFB) 
-![Snowflake](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=snowflake&logoColor=white) 
-![Databriks](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=databriks&logoColor=white) 
+![apache spark](https://img.shields.io/badge/apache%20spark-yellow?style=flat&logo=apache spark)
+![snowflake](https://img.shields.io/badge/snowflake-white?style=flat&logo=snowflake)
+![databricks](https://img.shields.io/badge/databricks-white?style=flat&logo=databricks)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
-![PowerBI](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=powerbis&logoColor=%234FC08D) 
-![Tableau](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=tableau&logoColor=%234FC08D) 
+![PowerBI](https://img.shields.io/badge/PowerBI-white?style=flat&logo=powerbi)
+![tableau](https://img.shields.io/badge/tableau-white?style=flat&logo=tableau)
 <h2 align="center"></h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/stanimir-dimitrov-5201331b/"><img src="https://img.shields.io/badge/-Dimitrov.S%20Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
