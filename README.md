@@ -27,7 +27,6 @@
 ![pandas](https://img.shields.io/badge/pandas-blue?style=flat&logo=pandas)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) 
@@ -40,9 +39,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
 ![PowerBI](https://img.shields.io/badge/PowerBI-white?style=flat&logo=powerbi)
 ![tableau](https://img.shields.io/badge/tableau-white?style=flat&logo=tableau)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 <h2 align="center"></h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/stanimir-dimitrov-5201331b/"><img src="https://img.shields.io/badge/-Dimitrov.S%20Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
