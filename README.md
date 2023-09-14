@@ -11,7 +11,7 @@
 
 <p align="center">
 	💻 &nbsp I mainly code in Python, but I am always learning.
-        🎓 &nbsp Studying Software Enginering at SoftUni Bulgaria.
+        🎓 &nbsp Studied Software Enginering at SoftUni Bulgaria.
 
 </p>
 
