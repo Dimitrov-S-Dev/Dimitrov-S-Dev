@@ -30,7 +30,6 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) 
-![apache spark](https://img.shields.io/badge/apache%20spark-yellow?style=flat&logo=apache spark)
 ![snowflake](https://img.shields.io/badge/snowflake-white?style=flat&logo=snowflake)
 ![databricks](https://img.shields.io/badge/databricks-white?style=flat&logo=databricks)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) 
