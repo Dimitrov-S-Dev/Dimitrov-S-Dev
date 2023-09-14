@@ -24,8 +24,7 @@
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![PySpark](https://img.shields.io/badge/python-3670A0?style=flat&logo=pyspark&logoColor=ffdd54) 
-![Pandas](https://img.shields.io/badge/python-3670A0?style=flat&logo=pandas&logoColor=ffdd54) 
+![pandas](https://img.shields.io/badge/pandas-blue?style=flat&logo=pandas)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
