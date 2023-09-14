@@ -27,6 +27,7 @@
 ![pandas](https://img.shields.io/badge/pandas-blue?style=flat&logo=pandas)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![bootstrap](https://img.shields.io/badge/bootstrap-purple?style=flat&logo=bootstrap)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) 
@@ -38,7 +39,9 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
 ![PowerBI](https://img.shields.io/badge/PowerBI-white?style=flat&logo=powerbi)
-![tableau](https://img.shields.io/badge/tableau-white?style=flat&logo=tableau)
+![Tableau](https://img.shields.io/badge/tableau-white?style=flat&logo=tableau)
+![Datacamp](https://img.shields.io/badge/datacamp-black?style=flat&logo=datacamp)
+![Udemy](https://img.shields.io/badge/udemy-black?style=flat&logo=udemy)
 <h2 align="center"></h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/stanimir-dimitrov-5201331b/"><img src="https://img.shields.io/badge/-Dimitrov.S%20Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
