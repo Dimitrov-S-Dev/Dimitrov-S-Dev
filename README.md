@@ -4,6 +4,7 @@
 	</a>
 </p>
 <p align="center"
+[![](https://visitcount.itsvg.in/api?id=Dimitrov-S-Dev&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
 	
 [![](https://visitcount.itsvg.in/api?id=Dimitrov-S-Dev-Python&icon=0&color=0)](https://visitcount.itsvg.in)
 <h2 align="center"></h2>
